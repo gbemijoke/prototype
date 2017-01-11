@@ -1,0 +1,19 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbemijoke/prototype.git"
+  },
+  "author": "Gbemisola Sulaiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbemijoke/prototype/issues"
+  },
+  "homepage": "https://github.com/gbemijoke/prototype#readme"
+}
